@@ -1,0 +1,11 @@
+{
+  "name": "zipline",
+  "version": "0.0.0",
+  "description": "A simple ZIP compression API",
+  "main": "zipline.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT"
+}
